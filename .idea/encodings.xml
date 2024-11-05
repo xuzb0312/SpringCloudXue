@@ -7,6 +7,12 @@
     <file url="file://$PROJECT_DIR$/xuzb-xue-base/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuzb-xue-content/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xuzb-xue-content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuzb-xue-content/xue-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuzb-xue-content/xue-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuzb-xue-content/xue-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuzb-xue-content/xue-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuzb-xue-content/xue-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuzb-xue-content/xue-content-service/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -12,7 +12,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>xuzb-xue-base</module>
-        <module>xuzb-xue-base</module>
         <module>xuzb-xue-content</module>
     </modules>
 
