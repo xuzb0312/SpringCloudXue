@@ -2,6 +2,7 @@ package com.xu.content.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.xu.domain.po.CourseBase;
+import org.apache.ibatis.annotations.Mapper;
 
 /**
  * <p>
@@ -10,6 +11,7 @@ import com.xu.domain.po.CourseBase;
  *
  * @author itcast
  */
+@Mapper
 public interface CourseBaseMapper extends BaseMapper<CourseBase> {
 
 }
