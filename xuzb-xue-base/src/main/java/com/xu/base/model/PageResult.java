@@ -9,7 +9,7 @@ import java.util.List;
  * @Author xuzb
  * @Date 2024/11/5
  * @Version 1.0
- * 描述：分页数据的响应类
+ * 描述：分页查询结果
  */
 @Data
 public class PageResult<T> implements Serializable {
